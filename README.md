@@ -1,8 +1,8 @@
-# runetick‑v1‑services‑portfolio
+# RuntickV1 Services
 
-**runetick** is a next‑gen OSRS trading platform that brings the Grand Exchange to life with real‑time data, technical analysis, and seamless trading tools—all wrapped up in a sleek, modern interface. 🚀💎
+**Runetick** is a next‑gen OSRS trading platform that brings the Grand Exchange to life with real‑time data, technical analysis, and seamless trading tools—all wrapped up in a sleek, modern interface. 🚀💎
 
-Built to overcome rate‑limits and provide sub‑second updates, runetick’s backend fetches live GE data from the OSRS API, caches it smartly, and distributes it to the frontend for lightning‑fast user interactions. Meanwhile, our React‑based frontend makes heavy use of Material‑UI, React Query, and Recharts to deliver interactive charts, trade logs, and a responsive experience across all devices. 🔥📈
+Built to overcome rate‑limits and provide sub‑second updates, Runetick’s backend fetches live GE data from the OSRS API, caches it smartly, and distributes it to the frontend for lightning‑fast user interactions. Meanwhile, our React‑based frontend makes heavy use of Material‑UI, React Query, and Recharts to deliver interactive charts, trade logs, and a responsive experience across all devices. 🔥📈
 
 ---
 
@@ -51,7 +51,7 @@ Built to overcome rate‑limits and provide sub‑second updates, runetick’s b
 - **Settings & Customization:**  
   The **SettingsPage** and **CustomTimezoneSelector** let you personalize your experience. Whether you’re updating your password or choosing your timezone, every detail is thoughtfully designed to be both functional and visually appealing. ⚙️🌍
 
-#### 🌟 **Extras That Make runetick Pop!**  
+#### 🌟 **Extras That Make Runetick Pop!**  
 - **Chat & Social Integration:**  
   Our **GlassyChatbox** component provides a fun, interactive chat experience—complete with dynamic animations and real‑time messaging. 💬💎  
 - **Live Status & Logo Animation:**  
@@ -78,6 +78,6 @@ Runetick V1 is open source and available under the [MIT License](./LICENSE). �
 
 ### Contact & Community
 
-Have questions, suggestions, or just want to chat about OSRS trading? Drop us an email at [seer@runetick.com](mailto:seer@runetick.com) or join our lively community on [Discord](https://discord.gg/pY4KVd9MjR). Let’s level up together! 🚀🤝
+Have questions, suggestions, or just want to chat about OSRS trading? Drop us an email at [seer@Runetick.com](mailto:seer@Runetick.com) or join our lively community on [Discord](https://discord.gg/pY4KVd9MjR). Let’s level up together! 🚀🤝
 
-Experience the future of OSRS trading with runetick—where real‑time data meets smart analytics for an unbeatable trading experience! 🔥💎📊
+Experience the future of OSRS trading with Runetick—where real‑time data meets smart analytics for an unbeatable trading experience! 🔥💎📊
